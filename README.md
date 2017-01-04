@@ -38,6 +38,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
 ## Table of Contents
 
 - [**Introduction**](#introduction)
+- [**Timeline**](#timeline)
 - [**Phonology**](#phonology)
 
 ---
@@ -49,9 +50,11 @@ This language is an *a priori* language in which **new word roots are randomly g
 For each syllable in a new root:
 
 - a [D12](https://en.wikipedia.org/wiki/Dice#Standard_variations) is rolled to determine the initial consonant (1=b, 2=d, 3=f, 4=g, 5=k, 6=l, 7=m, 8=n, 9=p, 10=s, 11=t, 12=y)
-- a [D6](https://en.wikipedia.org/wiki/Dice#Standard_variations) is rolled to determine the vowel (1=a, 2=a, 3=i, 4=i, 5=u, 6=u).
+- a [D6](https://en.wikipedia.org/wiki/Dice#Standard_variations) is rolled to determine the vowel (1=a, 2=a, 3=e, 4=i, 5=o, 6=u).
 
-The first roll is always used. No re-rolls are permitted. That is, except for proper nouns, the formulation of new word roots must always be entirely random. The name of the language, *Nuda*, was the result of the first four dice rolls in the construction of the language.
+Except for proper nouns and mnemonic patterns or sequences, the creation of new word roots must always be entirely random by means of dice rolls as shown above. However, a randomly rolled word root can be rejected if for some reason inherent to the language it would be likely to cause problems, cause confusion or be difficult to remember. In that case the entire word root is rolled again.
+
+The name of the language, *Nuda*, was the result of the first four dice rolls in the construction of the language.
 
 The language shall have a **very small, strict grammar**.
 
@@ -63,30 +66,49 @@ The language is intended to be **fun and practical**. It is not intended to riva
 
 ---
 
+## Timeline
+
+20170101 : Start of project  
+20170103 : Name of language randomly selected (from **bdfgklmnpsty** and **aiu**): Nuda  
+20170104 : Increased vowels from 3 to 5 (now **bdfgklmnpsty** and **aaeiou**) with **a** twice as likely as any other vowel
+
+
+
+---
+
 ## Phonology
 
-One letter, one sound:
+Almost one letter, one sound. The exceptions are:
 
-- a ≈ /a/ (optionally /ə/ when unstressed)
-- b = /b/
-- d = /d/
-- f = /f/
-- g = /g/
-- i ≈ /i/
-- k = /k/
-- l = /l/
-- m = /m/
-- n = /n/
-- p = /p/
-- s = /s/
-- t = /t/
-- u ≈ /u/
-- y = /j/
+1. optionally, **a** can weaken from /a/ to /ə/ when unstressed
+2. occasionally, **k** can be pronounced /kw/ to emphasize that is is not **g**
+3. occasionally, **p** can be pronounced /pw/ to emphasize that is is not **b**
+4. occasionally, **t** can be pronounced /tw/ to emphasize that is is not **d**
+
+Thus:
+
+- **a** ≈ /a/ `(optionally /ə/ when unstressed)`
+- **b** = /b/
+- **d** = /d/
+- **e** ≈ /e/
+- **f** = /f/
+- **g** = /g/
+- **i** ≈ /i/
+- **k** = /k/ `(optionally /kw/)`
+- **l** = /l/
+- **m** = /m/
+- **n** = /n/
+- **o** ≈ /o/
+- **p** = /p/ `(optionally /pw/)`
+- **s** = /s/
+- **t** = /t/ `(optionally /tw/)`
+- **u** ≈ /u/
+- **y** = /j/
 
 That is:
 
-- Consonants (C): b d f g k l m n p s t y
-- Vowels (V): a i u
+- Consonants (C): **b d f g k l m n p s t y**
+- Vowels (V): **a e i u o**
 
 Syllable structure is:
 
@@ -94,10 +116,10 @@ Syllable structure is:
 
 Unused letters:
 
-- c e h j o q r v w x z
+- c h j q r v w x z
 
 ---
 
-`20160103 / 20160103:1953`
+`20160103 / 20160103:1417`
 
 ---
