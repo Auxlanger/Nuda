@@ -70,7 +70,8 @@ The language is intended to be **fun and practical**. It is not intended to riva
 
 20170101 : Start of project  
 20170103 : Name of language randomly selected (from **bdfgklmnpsty** and **aiu**): Nuda  
-20170104 : Increased vowels from 3 to 5 (now **bdfgklmnpsty** and **aaeiou**) with **a** twice as likely as any other vowel
+20170104 : Increased vowels from 3 to 5 (now **bdfgklmnpsty** and **aaeiou**) with **a** twice as likely as any other vowel  
+20170105 : Replaced **y** with **x** to eliminate accidental diphthongs (now **bdfgklmnpstx** and **aaeiou**)
 
 
 
@@ -81,9 +82,9 @@ The language is intended to be **fun and practical**. It is not intended to riva
 Almost one letter, one sound. The exceptions are:
 
 1. optionally, **a** can weaken from /a/ to /ə/ when unstressed
-2. occasionally, **k** can be pronounced /kw/ to emphasize that is is not **g**
-3. occasionally, **p** can be pronounced /pw/ to emphasize that is is not **b**
-4. occasionally, **t** can be pronounced /tw/ to emphasize that is is not **d**
+2. occasionally, **k** can be pronounced /kw/ to emphasize that it is not **g**
+3. occasionally, **p** can be pronounced /pw/ to emphasize that it is not **b**
+4. occasionally, **t** can be pronounced /tw/ to emphasize that it is not **d**
 
 Thus:
 
@@ -103,11 +104,11 @@ Thus:
 - **s** = /s/
 - **t** = /t/ `(optionally /tw/)`
 - **u** ≈ /u/
-- **y** = /j/
+- **x** ≈ /ʃ/
 
 That is:
 
-- Consonants (C): **b d f g k l m n p s t y**
+- Consonants (C): **b d f g k l m n p s t x**
 - Vowels (V): **a e i u o**
 
 Syllable structure is:
@@ -116,10 +117,10 @@ Syllable structure is:
 
 Unused letters:
 
-- c h j q r v w x z
+- c h j q r v w y z
 
 ---
 
-`20160103 / 20160103:1417`
+`20160103 / 20160105:1017`
 
 ---
