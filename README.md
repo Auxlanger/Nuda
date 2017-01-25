@@ -42,6 +42,8 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
 - [**Rationale**](#rationale)
     - [**Why *a priori*?**](#why-a-priori)
 - [**Phonology**](#phonology)
+- [**The Nuda Clock**](#the-nuda-clock)
+
 
 ---
 
@@ -73,7 +75,8 @@ The language is intended to be **fun and practical**. It is not intended to riva
 20170101 : Start of project  
 20170103 : Name of language randomly selected (from **bdfgklmnpsty** and **aiu**): Nuda  
 20170104 : Increased vowels from 3 to 5 (now **bdfgklmnpsty** and **aaeiou**) with **a** twice as likely as any other vowel  
-20170105 : Replaced **y** with **x** to eliminate accidental diphthongs (now **bdfgklmnpstx** and **aaeiou**)
+20170105 : Replaced **y** with **x** to eliminate accidental diphthongs (now **bdfgklmnpstx** and **aaeiou**)  
+20170105 : Invention of the Nuda clock
 
 ---
 
@@ -138,6 +141,17 @@ Unused letters:
 
 ---
 
-`20160103 / 20170124:1750`
+## The Nuda Clock
+
+The Nuda clock is a mnemonic device from which important core vocabulary of the Nuda language is derived. It is based on the order of the 12 consonants of the Nuda alphabet, combined with the order of the 5 vowels of the Nuda alphabet, geometrically applied to a clock face and also associated with colours and times of day.
+
+Nuda is not a philosophical language; it is not based upon classifications. It is in part a mnemonic language and in part a randomly generated language. When being used mnemonically, the 13 syllables shown on the Nuda clock variously have associations such as colour, position, direction, time and number. They can also be combined, such as to signify geospatial relationships and mathematical operations. The Nuda clock is the key to memorizing important core vocabulary. It is a simple *aide-mémoire*.
+
+![The Nuda clock (also dice tables and the pronunciation of the alphabet)](img/nuda-clock.jpg "The Nuda clock (also dice tables and the pronunciation of the alphabet)")
+
+
+---
+
+`20160103 / 20170126:0014`
 
 ---
