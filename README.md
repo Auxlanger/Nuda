@@ -46,7 +46,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
 - [**Scopes**](#scopes)
     - [**s1. Cardinal numbers 0 ... 12**](#s1.-cardinal-numbers-0-...-12)
     - [**s2. Lists**](#s2.-lists)
-    - [**s3. Singular Demonstratives**](#s3.-singular-demonstratives)
+    - [**s3. Singular demonstratives**](#s3.-singular-demonstratives)
 - [**Word List**](#word-list)
 
 ---
@@ -88,7 +88,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170105 : Invention of the Nuda clock
 - 20170129 : s1. Ordinal numbers 0 ... 12
 - 20170129 : s2. Lists
-- 20170129 : s3. Demonstratives
+- 20170129 : s3. Singular demonstratives
 
 
 ---
@@ -217,7 +217,7 @@ Pronunciation:
 ---
 
 
-### s3. Singular Demonstratives
+### s3. Singular demonstratives
 
 #### Scope
 
@@ -279,7 +279,7 @@ You friend disagrees by shaking his head and saying:
 1. **niki** = that = that 8th one (declaration)
 1. **niko** = that = that 8th one (reference)
 1. **nina** = 8
-1. **nuda** = Nuda
+1. **Nuda** = Nuda
 1. **poki** = that = that 9th one (declaration)
 1. **poko** = that = that 9th one (reference)
 1. **pona** = 9
@@ -305,6 +305,6 @@ You friend disagrees by shaking his head and saying:
 
 ---
 
-`20170103 / 20170129:1637`
+`20170103 / 20170129:1653`
 
 ---
