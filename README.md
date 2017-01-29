@@ -43,20 +43,28 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
     - [**Why *a priori*?**](#why-a-priori)
 - [**Phonology**](#phonology)
 - [**The Nuda Clock**](#the-nuda-clock)
+- [**Word List**](#word-list)
+- [**Scopes**](#scopes)
+    - [**s1. Cardinal numbers 0 ... 12**](#s1.-cardinal-numbers-0-...-12)
 
 
 ---
 
 ## Introduction
 
-This language is an *a priori* language in which **new word roots are randomly generated using dice**.
+This language is an *a priori* language in which **word roots are randomly generated using dice**.
 
 For each syllable in a new root:
 
-- a [D12](https://en.wikipedia.org/wiki/Dice#Standard_variations) is rolled to determine the initial consonant (1=b, 2=d, 3=f, 4=g, 5=k, 6=l, 7=m, 8=n, 9=p, 10=s, 11=t, 12=x)
-- a [D6](https://en.wikipedia.org/wiki/Dice#Standard_variations) is rolled to determine the vowel (1=a, 2=a, 3=e, 4=i, 5=o, 6=u).
+- a [D12](https://en.wikipedia.org/wiki/Dice#Standard_variations) is rolled to determine the initial consonant:  
+1=b, 2=d, 3=f, 4=g, 5=k, 6=l, 7=m, 8=n, 9=p, 10=s, 11=t, 12=x  
 
-Except for proper nouns and mnemonic patterns or sequences, the creation of new word roots must always be entirely random by means of dice rolls as shown above. However, a randomly rolled word root can be rejected if for some reason inherent to the language it would be likely to cause problems, cause confusion or be difficult to remember. In that case the entire word root is rolled again.
+- a [D6](https://en.wikipedia.org/wiki/Dice#Standard_variations) is rolled to determine the vowel:  
+1=a, 2=a, 3=e, 4=i, 5=o, 6=u
+
+The creation of new word roots is predominantly random by means of dice rolls as shown above. However, a randomly rolled word root can be rejected if for some reason inherent to the language it would be likely to cause problems. In that case the entire word root is rolled again.
+
+**Not all word roots are randomly generated.** Exceptions include: proper nouns; words derived from international symbolic notations (such as the unit symbols of the International System of Units, and the symbols for chemical elements in the periodic table); words whose invented form is inherently likely to be easier phonetically, mnemonically, sequentially or logically.
 
 The name of the language, *Nuda*, was the result of the first four dice rolls in the construction of the language.
 
@@ -66,17 +74,18 @@ The size of the **vocabulary is unlimited** but compounding of existing roots sh
 
 Spelling, pronunciation and grammar shall be **simple and easy**.
 
-The language is intended to be **fun and practical**. It is not intended to rival natural languages in power.
+The language is intended to be **fun and practical**. It is not intended to rival natural languages in power. Rather, it is intended to be self-contained such that at each step of its development it is fun and practical to use within its current scope of development.
 
 ---
 
 ## Timeline
 
-20170101 : Start of project  
-20170103 : Name of language randomly selected (from **bdfgklmnpsty** and **aiu**): Nuda  
-20170104 : Increased vowels from 3 to 5 (now **bdfgklmnpsty** and **aaeiou**) with **a** twice as likely as any other vowel  
-20170105 : Replaced **y** with **x** to eliminate accidental diphthongs (now **bdfgklmnpstx** and **aaeiou**)  
-20170105 : Invention of the Nuda clock
+- 20170101 : Start of project
+- 20170103 : Name of language randomly selected (from **bdfgklmnpsty** and **aiu**): Nuda
+- 20170104 : Increased vowels from 3 to 5 (now **bdfgklmnpsty** and **aaeiou**) with **a** twice as likely as any other vowel
+- 20170105 : Replaced **y** with **x** to eliminate accidental diphthongs (now **bdfgklmnpstx** and **aaeiou**)
+- 20170105 : Invention of the Nuda clock
+- 20170129 : s1. Ordinal numbers 0 ... 12
 
 ---
 
@@ -92,7 +101,7 @@ Most modern auxlangs are *a posteriori* in the sense that their word roots are t
 
 - As a thought experiment, another auxlang was imagined, also intended to be accessible to speakers of English and to speakers of Chinese, but which used neither English vocabulary nor Chinese vocabulary. Its vocabulary would be entirely *a priori* and would be designed to be reasonably mnemonic to assist its memorization. Such an auxlang would not need to inherit any difficulties from either English or Chinese with respect to idioms, grammar, word formation, pronunciation, phonotactics and spelling but could instead be designed to be internally consistent. For example, it could have exceedingly easy pronunciation, phonotactics and spelling, unconstrained by any need to be capable of importing words from Chinese or English. In theory, if such a language were designed well enough to be fun and practical to use at least for some limited purposes, it could prosper because it could truly be easier than natural languages for those limited purposes. This thought experiment demonstrated the advantages of *a priori* vocabulary.
 
-- It is possible that these conclusions are incorrect. If that is the case then happily some *a posteriori* auxlangs might become more successful in future. However, Robert Winter has chosen to focus his efforts on *a priori* auxlangs for the reasons given above. Therefore, other than proper nouns or when quoting foreign languages, Nuda vocabulary is entirely *a priori*.
+- It is possible that these conclusions are incorrect. If that is the case then happily some *a posteriori* auxlangs might become more successful in future. However, Robert Winter has chosen to focus his efforts on *a priori* auxlangs for the reasons given above.
 
 
 ---
@@ -149,9 +158,47 @@ Nuda is not a philosophical language; it is not based upon classifications. It i
 
 ![The Nuda clock (also dice tables and the pronunciation of the alphabet)](img/nuda-clock.jpg "The Nuda clock (also dice tables and the pronunciation of the alphabet)")
 
+---
+
+## Scopes
+
+### s1. Cardinal numbers 0 ... 12
+
+### Scope
+
+To be able to express the cardinal numbers from 0 to 12.
+
+#### Means
+
+Add suffix **na** to clock syllable: 0=xana, 1=bana, 2=dena, 3=fina, 4=gona, 5=kuna, 6=lana, 7=mena, 8=nina, 9=pona, 10=suna, 11=tana, 12=xena.
+
 
 ---
 
-`20170103 / 20170126:0014`
+## Word List
+
+1. bana = 1 
+1. dena = 2
+1. fina = 3
+1. gona = 4
+1. kuna = 5 
+1. lana = 6
+1. mena = 7
+1. nina = 8
+1. nuda = Nuda
+1. pona = 9 
+1. suna = 10
+1. tana = 11
+1. xena = 12 
+ 
+
+<!--
+1.  = 
+
+-->
+
+---
+
+`20170103 / 20170129:1416`
 
 ---
