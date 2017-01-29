@@ -46,7 +46,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
 - [**Word List**](#word-list)
 - [**Scopes**](#scopes)
     - [**s1. Cardinal numbers 0 ... 12**](#s1.-cardinal-numbers-0-...-12)
-
+    - [**s2. Lists**](#s2.-lists)
 
 ---
 
@@ -86,6 +86,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170105 : Replaced **y** with **x** to eliminate accidental diphthongs (now **bdfgklmnpstx** and **aaeiou**)
 - 20170105 : Invention of the Nuda clock
 - 20170129 : s1. Ordinal numbers 0 ... 12
+- 20170129 : s2. Lists
 
 ---
 
@@ -229,6 +230,6 @@ A list with 1 element:
 
 ---
 
-`20170103 / 20170129:1450`
+`20170103 / 20170129:1458`
 
 ---
