@@ -43,10 +43,11 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
     - [**Why *a priori*?**](#why-a-priori)
 - [**Phonology**](#phonology)
 - [**The Nuda Clock**](#the-nuda-clock)
-- [**Word List**](#word-list)
 - [**Scopes**](#scopes)
     - [**s1. Cardinal numbers 0 ... 12**](#s1.-cardinal-numbers-0-...-12)
     - [**s2. Lists**](#s2.-lists)
+    - [**s3. Singular Demonstratives**](#s3.-singular-demonstratives)
+- [**Word List**](#word-list)
 
 ---
 
@@ -87,6 +88,8 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170105 : Invention of the Nuda clock
 - 20170129 : s1. Ordinal numbers 0 ... 12
 - 20170129 : s2. Lists
+- 20170129 : s3. Demonstratives
+
 
 ---
 
@@ -184,52 +187,124 @@ To be able to express a list.
 
 #### Means
 
-- Start the list with **(** which is pronounced **sa**
-- Separate list elements with **,** which is pronounced **na**
-- End the list with **)** which is pronounced **do**
+- Start the list with the delimiter **(** which is pronounced **sa**
+- Separate list elements with the delimiter **,** which is pronounced **na**
+- End the list with the delimiter **)** which is pronounced **do**
 
+In colloquial speech you can choose not to pronounce these delimiters, instead only pronouncing each of the actual list elements themselves. In formal speech the delimiters are pronounced.
 
 
 #### Examples
 
 A list with 3 elements:
 
-> (1, 2, 3) = (bana, dena, fina) = "sa bana na dena na fina do"
+> (1, 2, 3) = (bana, dena, fina)
+
+Pronunciation:
+
+> Formal speech: "sa bana na dena na fina do"  
+> Colloquial speech: "bana dena fina"
 
 A list with 1 element:
 
-> \(1) = (bana) = "sa bana do"
+> \(1) = (bana)
+
+Pronunciation:
+
+> Formal speech: "sa bana do"  
+> Colloquial speech: "bana"
+
+---
+
+
+### s3. Singular Demonstratives
+
+#### Scope
+
+To be able to refer to something using a demonstrative pronoun.
+
+#### Means
+
+To declare a demonstrative, add suffix **ki** to clock syllable: 0th=xaki, 1st=baki, 2nd=deki, 3rd=fiki, 4th=goki, 5th=kuki, 6th=laki, 7th=meki, 8th=niki, 9th=poki, 10th=suki, 11th=taki, 12th=xeki.
+
+To reference a previously declared demonstrative, add suffix **ko** to clock syllable: 0th=xako, 1st=bako, 2nd=deko, 3rd=fiko, 4th=goko, 5th=kuko, 6th=lako, 7th=meko, 8th=niko, 9th=poko, 10th=suko, 11th=tako, 12th=xeko.
+
+In everyday speech the most common of these pairs are **baki**/**bako** (*this*, or *this first one*) and **deki**/**deko** (*that*, or *that second one*). Less common are **fiki**/**fiko** (*that third one*) and **goki**/**goko** (*that fourth one*). It is rare to use any of the other demonstratives. It is usual for the speaker to declare demonstratives in some kind of logical order, such as from left to right when pointing, with the intention of facilitating understanding by the listener.
+
+#### Examples
+
+You and a friend are looking at 3 trees. You point at each tree in turn, from left to right, while saying:
+
+> (baki, deki, fiki).  
+> *This first one, that second one, that third one.*
+
+You friend asks you which one you think is tallest. You say:
+
+> deko.  
+> *That second one.*
+
+You friend disagrees by shaking his head and saying:
+
+> bako.  
+> *This first one.*
 
 
 ---
 
 ## Word List
 
-1. bana = 1
-1. dena = 2
-1. do = )
-1. fina = 3
-1. gona = 4
-1. kuna = 5
-1. lana = 6
-1. mena = 7
-1. na = ,
-1. nina = 8
-1. nuda = Nuda
-1. pona = 9
-1. sa = ( 
-1. suna = 10
-1. tana = 11
-1. xena = 12 
+1. **baki** = this = this 1st one (declaration)
+1. **bako** = this = this 1st one (reference)
+1. **bana** = 1
+1. **deki** = that = that 2nd one (declaration)
+1. **deko** = that = that 2nd one (reference)
+1. **dena** = 2
+1. **do** = )
+1. **fiki** = that = that 3rd one (declaration)
+1. **fiko** = that = that 3rd one (reference)
+1. **fina** = 3
+1. **goki** = that = that 4th one (declaration)
+1. **goko** = that = that 4th one (reference)
+1. **gona** = 4
+1. **kuki** = that = that 5th one (declaration)
+1. **kuko** = that = that 5th one (reference)
+1. **kuna** = 5
+1. **laki** = that = that 6th one (declaration)
+1. **lako** = that = that 6th one (reference)
+1. **lana** = 6
+1. **meki** = that = that 7th one (declaration)
+1. **meko** = that = that 7th one (reference)
+1. **mena** = 7
+1. **na** = ,
+1. **niki** = that = that 8th one (declaration)
+1. **niko** = that = that 8th one (reference)
+1. **nina** = 8
+1. **nuda** = Nuda
+1. **poki** = that = that 9th one (declaration)
+1. **poko** = that = that 9th one (reference)
+1. **pona** = 9
+1. **sa** = (
+1. **suki** = that = that 10th one (declaration)
+1. **suko** = that = that 10th one (reference)
+1. **suna** = 10
+1. **taki** = that = that 11th one (declaration)
+1. **tako** = that = that 11th one (reference)
+1. **tana** = 11
+1. **xaki** = that = that 0th one (declaration)
+1. **xako** = that = that 0th one (reference)
+1. **xana** = 0
+1. **xeki** = that = that 12th one (declaration)
+1. **xeko** = that = that 12th one (reference)
+1. **xena** = 12
 
 
 <!--
-1.  = 
+1. **** = 
 
 -->
 
 ---
 
-`20170103 / 20170129:1458`
+`20170103 / 20170129:1637`
 
 ---
