@@ -164,7 +164,7 @@ Nuda is not a philosophical language; it is not based upon classifications. It i
 
 ### s1. Cardinal numbers 0 ... 12
 
-### Scope
+#### Scope
 
 To be able to express the cardinal numbers from 0 to 12.
 
@@ -175,22 +175,52 @@ Add suffix **na** to clock syllable: 0=xana, 1=bana, 2=dena, 3=fina, 4=gona, 5=k
 
 ---
 
+### s2. Lists
+
+#### Scope
+
+To be able to express a list.
+
+#### Means
+
+- Start the list with **(** which is pronounced **sa**
+- Separate list elements with **,** which is pronounced **na**
+- End the list with **)** which is pronounced **do**
+
+
+
+#### Examples
+
+A list with 3 elements:
+
+> (1, 2, 3) = (bana, dena, fina) = "sa bana na dena na fina do"
+
+A list with 1 element:
+
+> \(1) = (bana) = "sa bana do"
+
+
+---
+
 ## Word List
 
-1. bana = 1 
+1. bana = 1
 1. dena = 2
+1. do = )
 1. fina = 3
 1. gona = 4
-1. kuna = 5 
+1. kuna = 5
 1. lana = 6
 1. mena = 7
+1. na = ,
 1. nina = 8
 1. nuda = Nuda
-1. pona = 9 
+1. pona = 9
+1. sa = ( 
 1. suna = 10
 1. tana = 11
 1. xena = 12 
- 
+
 
 <!--
 1.  = 
@@ -199,6 +229,6 @@ Add suffix **na** to clock syllable: 0=xana, 1=bana, 2=dena, 3=fina, 4=gona, 5=k
 
 ---
 
-`20170103 / 20170129:1416`
+`20170103 / 20170129:1450`
 
 ---
