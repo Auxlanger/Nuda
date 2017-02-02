@@ -47,6 +47,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
     - [**s1. Cardinal numbers 0 ... 12**](#s1.-cardinal-numbers-0-...-12)
     - [**s2. Lists**](#s2.-lists)
     - [**s3. Singular demonstratives**](#s3.-singular-demonstratives)
+    - [**s4. Ordinal numbers 0 ... 12**](#s4.-ordinal-numbers-0-...-12)
 - [**Word List**](#word-list)
 
 ---
@@ -86,9 +87,10 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170104 : Increased vowels from 3 to 5 (now **bdfgklmnpsty** and **aaeiou**) with **a** twice as likely as any other vowel
 - 20170105 : Replaced **y** with **x** to eliminate accidental diphthongs (now **bdfgklmnpstx** and **aaeiou**)
 - 20170105 : Invention of the Nuda clock
-- 20170129 : s1. Ordinal numbers 0 ... 12
+- 20170129 : s1. Cardinal numbers 0 ... 12
 - 20170129 : s2. Lists
 - 20170129 : s3. Singular demonstratives
+- 20170203 : s4. Ordinal numbers 0 ... 12
 
 
 ---
@@ -214,8 +216,8 @@ Pronunciation:
 > Formal speech: "sa bana do"  
 > Colloquial speech: "bana"
 
----
 
+---
 
 ### s3. Singular demonstratives
 
@@ -251,51 +253,77 @@ You friend disagrees by shaking his head and saying:
 
 ---
 
+### s4. Ordinal numbers 0 ... 12
+
+#### Scope
+
+To be able to express the ordinal numbers from 0 to 12.
+
+#### Means
+
+Add suffix **fu** to the cardinal number: 0th=xanafu, 1st=banafu, 2nd=denafu, 3rd=finafu, 4th=gonafu, 5th=kunafu, 6th=lanafu, 7th=menafu, 8th=ninafu, 9th=ponafu, 10th=sunafu, 11th=tanafu, 12th=xenafu.
+
+
+---
+
 ## Word List
 
 1. **baki** = this = this 1st one (declaration)
 1. **bako** = this = this 1st one (reference)
 1. **bana** = 1
+1. **banafu** = 1st
 1. **deki** = that = that 2nd one (declaration)
 1. **deko** = that = that 2nd one (reference)
 1. **dena** = 2
+1. **denafu** = 2nd
 1. **do** = )
 1. **fiki** = that = that 3rd one (declaration)
 1. **fiko** = that = that 3rd one (reference)
 1. **fina** = 3
+1. **finafu** = 3rd
 1. **goki** = that = that 4th one (declaration)
 1. **goko** = that = that 4th one (reference)
 1. **gona** = 4
+1. **gonafu** = 4th
 1. **kuki** = that = that 5th one (declaration)
 1. **kuko** = that = that 5th one (reference)
 1. **kuna** = 5
+1. **kunafu** = 5th
 1. **laki** = that = that 6th one (declaration)
 1. **lako** = that = that 6th one (reference)
 1. **lana** = 6
+1. **lanafu** = 6th
 1. **meki** = that = that 7th one (declaration)
 1. **meko** = that = that 7th one (reference)
 1. **mena** = 7
+1. **menafu** = 7th
 1. **na** = ,
 1. **niki** = that = that 8th one (declaration)
 1. **niko** = that = that 8th one (reference)
 1. **nina** = 8
+1. **ninafu** = 8th
 1. **Nuda** = Nuda
 1. **poki** = that = that 9th one (declaration)
 1. **poko** = that = that 9th one (reference)
 1. **pona** = 9
+1. **ponafu** = 9th
 1. **sa** = (
 1. **suki** = that = that 10th one (declaration)
 1. **suko** = that = that 10th one (reference)
 1. **suna** = 10
+1. **sunafu** = 10th
 1. **taki** = that = that 11th one (declaration)
 1. **tako** = that = that 11th one (reference)
 1. **tana** = 11
+1. **tanafu** = 11th
 1. **xaki** = that = that 0th one (declaration)
 1. **xako** = that = that 0th one (reference)
 1. **xana** = 0
+1. **xanafu** = 0th
 1. **xeki** = that = that 12th one (declaration)
 1. **xeko** = that = that 12th one (reference)
 1. **xena** = 12
+1. **xenafu** = 12th
 
 
 <!--
@@ -305,6 +333,6 @@ You friend disagrees by shaking his head and saying:
 
 ---
 
-`20170103 / 20170129:1653`
+`20170103 / 20170203:0042`
 
 ---
