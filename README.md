@@ -317,7 +317,8 @@ You point at a tree and say:
 Your friend agrees by nodding his head and saying:
 
 > bako tuni lefu.  
-> *This is a tree.*  
+> *It is a tree.*  
+> = *This is a tree.*  
 > = *This first one is a tree.*  
 > = *That is a tree.*  
 > = *That first one is a tree.*
@@ -476,6 +477,6 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 
 ---
 
-`20170103 / 20170204:1818`
+`20170103 / 20170204:1821`
 
 ---
