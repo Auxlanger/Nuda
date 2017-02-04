@@ -98,6 +98,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170203 : s5. "is a"
 - 20170203 : s6. "is"
 - 20170203 : s7. "is, equals"
+- 20170204 : nu, ka, kanu
 
 
 ---
@@ -332,7 +333,8 @@ Here the referential pronoun **bako** refers specifically to the very same thing
 
 To be able to express:
 
-- "is" in the sense of expressing a state or attribute
+- "is" in the sense of expressing an adjectival state or adjectival attribute
+- "is" in the sense of identifying a language being used
 
 #### Means
 
@@ -340,7 +342,31 @@ Use the verb **fa**.
 
 #### Notes
 
-This verb was randomly generated.
+The verb **fa** was rolled.
+
+The word **nu** means *good* or *desirable* and was chosen since it corresponds to the first syllable of **Nuda** and is therefore easy to remember. The word **ka** means *opposite* and was chosen for its phonetic clarity and ease. Therefore **kanu** means *bad*.
+
+#### Examples
+
+You say:
+
+> Nuda fa nu.  
+> *Nuda is good.*
+
+To explain that you are speaking Nuda you say:
+
+> baki fa Nuda.  
+> *This is Nuda.*
+
+And then you say:
+
+> bako fa nu.  
+> *It is good.*
+
+Your friend disagrees and says:
+
+> bako fa kanu.  
+> *It is bad.*
 
 
 ---
@@ -362,6 +388,15 @@ Use the verb **fifi**.
 #### Notes
 
 This verb was chosen logically. The hands of the Nuda clock show the time as being 3 o'clock. The syllable at that position is **fi**. This position on the clock is a reference point from which words, such as mathematical operators, are logically derived relative to the integer 3. The word **fifi** is the verb "to equal" (or "is" in the sense of equality) because it reduplicates the **fi** syllable to imply **(3, 3)** and the relationship between 3 and 3 is one of equality.
+
+#### Examples
+
+> Nuda fifi Nuda.  
+> *Nuda is Nuda.*
+
+> bana fifi bana.  
+> *One equals one.*  
+> 1 = 1
 
 
 ---
@@ -387,6 +422,8 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 1. **goko** = that = that 4th one (reference)
 1. **gona** = 4
 1. **gonafu** = 4th
+1. **ka** = opposite
+1. **kanu** = bad, undesirable
 1. **kuki** = that = that 5th one (declaration)
 1. **kuko** = that = that 5th one (reference)
 1. **kuna** = 5
@@ -402,6 +439,7 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 1. **mena** = 7
 1. **menafu** = 7th
 1. **na** = ,
+1. **nu** = good, desirable
 1. **niki** = that = that 8th one (declaration)
 1. **niko** = that = that 8th one (reference)
 1. **nina** = 8
@@ -438,6 +476,6 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 
 ---
 
-`20170103 / 20170203:2241`
+`20170103 / 20170204:1818`
 
 ---
