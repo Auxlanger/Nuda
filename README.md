@@ -101,7 +101,8 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170203 : s6. "is"
 - 20170203 : s7. "is, equals"
 - 20170204 : nu, ka, kanu
-
+- 20170205 : defu, gofu
+- 20170205 : mi, kami
 
 ---
 
@@ -397,6 +398,7 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 > Nuda fifi Nuda.  
 > *Nuda is Nuda.*
 
+
 > bana fifi bana.  
 > *One equals one.*  
 > 1 = 1
@@ -418,7 +420,7 @@ Use the referential pronoun **defu**.  It can only refer to the meaning of the p
 
 This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference point and is thought of as the present. The 2 o'clock syllable **de** is therefore prior to the reference point and here combined with **fu**, a syllable already associated with ordinality since it is the final syllable of all ordinal numbers, implies the general concept of being in the past or previous. However, **defu** is a special pronoun used only to refer to the meaning of the previous sentence. It is never used for any other purpose.
 
-The word **mi** was rolled. It means true. Thus **kami** means false.
+The word **mi** was rolled. It means *true*. Thus **kami** means *false*.
 
 #### Examples
 
@@ -426,23 +428,28 @@ The word **mi** was rolled. It means true. Thus **kami** means false.
 > *1 = 1. That is true.*  
 > = *1 = 1. The previous sentence is true.*
 
+
 > bana fifi bana. defu fa mi.  
 > *One equals one. That is true.*  
 > = *One equals one. The previous sentence is true.*
+
 
 > 1 = 2. defu fa kami.  
 > *1 = 2. That is false.*  
 > = *1 = 2. The previous sentence is false.*
 
+
 > bana fifi dena. defu fa kami.  
 > *One equals two. That is false.*  
 > = *One equals two. The previous sentence is false.*
+
 
 > Nuda. defu fa nu.  
 > *Nuda. It is good.*  
 > = *Nuda. That is good.*  
 > = *Nuda. Nuda is good.*  
 > = *Nuda is good.*
+
 
 > Nuda fa nu. defu fa mi.  
 > *Nuda is good. That is true.*  
@@ -472,20 +479,25 @@ This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference
 > gofu fa mi. 1 = 1.  
 > *The next sentence is true. 1 = 1.*
 
+
 > gofu fa mi. bana fifi bana.  
 > *The next sentence is true. One equals one.*
+
 
 > gofu fa kami. 1 = 2.  
 > *The next sentence is false. 1 = 2.*
 
+
 > gofu fa kami. bana fifi dena.  
 > *The next sentence is false. One equals two.*
+
 
 > gofu fa nu. Nuda.  
 > *This is good: Nuda.*  
 > = *Here is something good: Nuda.*  
 > = *The next sentence is something good. Nuda.*  
 > = *Nuda is good.*
+
 
 > gofu fa mi. Nuda fa nu.  
 > *This is true: Nuda is good.*  
@@ -575,6 +587,6 @@ This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference
 
 ---
 
-`20170103 / 20170205:1630`
+`20170103 / 20170205:1640`
 
 ---
