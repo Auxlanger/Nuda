@@ -402,12 +402,105 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 
 ---
 
+### s8. Previous sentence: defu
+
+#### Scope
+
+To be able to refer to the meaning of the previous sentence.
+
+#### Means
+
+Use the referential pronoun **defu**.  It can only refer to the meaning of the previous sentence.
+
+#### Notes
+
+This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference point and is thought of as the present. The 2 o'clock syllable **de** is therefore prior to the reference point and here combined with **fu**, a syllable already associated with ordinality since it is the final syllable of all ordinal numbers, implies the general concept of being in the past or previous. However, **defu** is a special pronoun used only to refer to the meaning of the previous sentence. It is never used for any other purpose.
+
+The word **mi** was rolled. It means true. Thus **kami** means false.
+
+#### Examples
+
+> 1 = 1. defu fa mi.  
+> *1 = 1. That is true.*  
+> = *1 = 1. The previous sentence is true.*
+
+> bana fifi bana. defu fa mi.  
+> *One equals one. That is true.*  
+> = *One equals one. The previous sentence is true.*
+
+> 1 = 2. defu fa kami.  
+> *1 = 2. That is false.*  
+> = *1 = 2. The previous sentence is false.*
+
+> bana fifi dena. defu fa kami.  
+> *One equals two. That is false.*  
+> = *One equals two. The previous sentence is false.*
+
+> Nuda. defu fa nu.  
+> *Nuda. It is good.*  
+> = *Nuda. That is good.*  
+> = *Nuda. Nuda is good.*  
+> = *Nuda is good.*
+
+> Nuda fa nu. defu fa mi.  
+> *Nuda is good. That is true.*  
+> = *Nuda is good. That Nuda is good is true.*  
+> = *Nuda is good. The previous sentence is true.*  
+> = *It is true that Nuda is good.*
+
+
+---
+
+### s9. Next sentence: gofu
+
+#### Scope
+
+To be able to refer to the meaning of the next sentence.
+
+#### Means
+
+Use the referential pronoun **gofu**. It can only refer to the meaning of the next sentence.
+
+#### Notes
+
+This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference point and is thought of as the present. The 4 o'clock syllable **go** is therefore later than the reference point and here combined with **fu**, a syllable already associated with ordinality since it is the final syllable of all ordinal numbers, implies the general concept of being in the future or next. However, **gofu** is a special pronoun used only to refer to the meaning of the next sentence.  It is never used for any other purpose.
+
+#### Examples
+
+> gofu fa mi. 1 = 1.  
+> *The next sentence is true. 1 = 1.*
+
+> gofu fa mi. bana fifi bana.  
+> *The next sentence is true. One equals one.*
+
+> gofu fa kami. 1 = 2.  
+> *The next sentence is false. 1 = 2.*
+
+> gofu fa kami. bana fifi dena.  
+> *The next sentence is false. One equals two.*
+
+> gofu fa nu. Nuda.  
+> *This is good: Nuda.*  
+> = *Here is something good: Nuda.*  
+> = *The next sentence is something good. Nuda.*  
+> = *Nuda is good.*
+
+> gofu fa mi. Nuda fa nu.  
+> *This is true: Nuda is good.*  
+> = *Here is something true: Nuda is good.*  
+> = *The next sentence is true. Nuda is good.*  
+> = *It is true that Nuda is good.*
+
+
+---
+
 ## Word List
 
 1. **baki** = this = this 1st one (declaration)
 1. **bako** = this = this 1st one (reference)
 1. **bana** = 1
 1. **banafu** = 1st
+1. **defu** = the previous sentence (special reference)
 1. **deki** = that = that 2nd one (declaration)
 1. **deko** = that = that 2nd one (reference)
 1. **dena** = 2
@@ -419,11 +512,13 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 1. **fiko** = that = that 3rd one (reference)
 1. **fina** = 3
 1. **finafu** = 3rd
+1. **gofu** = the next sentence (special reference)
 1. **goki** = that = that 4th one (declaration)
 1. **goko** = that = that 4th one (reference)
 1. **gona** = 4
 1. **gonafu** = 4th
 1. **ka** = opposite
+1. **kami** = false, incorrect, inaccurate
 1. **kanu** = bad, undesirable
 1. **kuki** = that = that 5th one (declaration)
 1. **kuko** = that = that 5th one (reference)
@@ -439,6 +534,7 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 1. **meko** = that = that 7th one (reference)
 1. **mena** = 7
 1. **menafu** = 7th
+1. **mi** = true, correct, accurate
 1. **na** = ,
 1. **nu** = good, desirable
 1. **niki** = that = that 8th one (declaration)
@@ -477,6 +573,6 @@ This verb was chosen logically. The hands of the Nuda clock show the time as bei
 
 ---
 
-`20170103 / 20170204:1821`
+`20170103 / 20170205:1626`
 
 ---
