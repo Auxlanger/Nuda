@@ -52,6 +52,8 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
     - [**s5. "is a"**](#s5.-is-a)
     - [**s6. "is"**](#s6.-is)
     - [**s7. "is, equals"**](#s7.-is-equals)
+    - [**s8. Previous sentence: defu**](#s8.-previous-sentence-defu)
+    - [**s9. Next sentence: gofu**](#s9.-next-sentence-gofu)
 - [**Word List**](#word-list)
 
 ---
@@ -573,6 +575,6 @@ This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference
 
 ---
 
-`20170103 / 20170205:1626`
+`20170103 / 20170205:1630`
 
 ---
