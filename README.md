@@ -54,6 +54,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
     - [**s7. "is, equals"**](#s7.-is-equals)
     - [**s8. Previous sentence: defu**](#s8.-previous-sentence-defu)
     - [**s9. Next sentence: gofu**](#s9.-next-sentence-gofu)
+    - [**s10. Present sentence: fifu**](#s10.-present-sentence-fifu)
 - [**Word List**](#word-list)
 
 ---
@@ -103,6 +104,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170204 : nu, ka, kanu
 - 20170205 : defu, gofu
 - 20170205 : mi, kami
+- 20170206 : fifu
 
 ---
 
@@ -420,6 +422,8 @@ Use the referential pronoun **defu**.  It can only refer to the meaning of the p
 
 This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference point and is thought of as the present. The 2 o'clock syllable **de** is therefore prior to the reference point and here combined with **fu**, a syllable already associated with ordinality since it is the final syllable of all ordinal numbers, implies the general concept of being in the past or previous. However, **defu** is a special pronoun used only to refer to the meaning of the previous sentence. It is never used for any other purpose.
 
+The referential pronoun **defu** is very commonly used.
+
 The word **mi** was rolled. It means *true*. Thus **kami** means *false*.
 
 #### Examples
@@ -474,6 +478,8 @@ Use the referential pronoun **gofu**. It can only refer to the meaning of the ne
 
 This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference point and is thought of as the present. The 4 o'clock syllable **go** is therefore later than the reference point and here combined with **fu**, a syllable already associated with ordinality since it is the final syllable of all ordinal numbers, implies the general concept of being in the future or next. However, **gofu** is a special pronoun used only to refer to the meaning of the next sentence.  It is never used for any other purpose.
 
+The referential pronoun **gofu** is used occasionally.
+
 #### Examples
 
 > gofu fa mi. 1 = 1.  
@@ -508,13 +514,43 @@ This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference
 
 ---
 
+### s10. Present sentence: fifu
+
+#### Scope
+
+To be able to refer to the present sentence as an entity.
+
+#### Means
+
+Use the referential pronoun **fifu**. It can only refer to the the present sentence itself; that is, the sentence in which **fifu** occurs. Unlike **defu** and **gofu**, which refer to the *meaning expressed by* the previous and next sentences respectively, **fifu** refers not to the meaning expressed by the present sentence but merely to the present sentence itself *as an entity*.
+
+#### Notes
+
+This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference point and is thought of as the present. The 3 o'clock syllable **fi** is therefore here combined with **fu**, a syllable already associated with ordinality since it is the final syllable of all ordinal numbers, implying the general concept of the present or the present reference point. However, **fifu** is a special pronoun used only to refer to the present sentence as an entity.  It is never used for any other purpose.
+
+The referential pronoun **fifu** is rarely used.
+
+#### Examples
+
+> fifu.  
+> *This sentence.*  
+> = *This present sentence.*
+
+> fifu fa nu.  
+> *This sentence is good.*  
+> = *This present sentence is good.*  
+> = *This sentence itself is good.*
+
+
+---
+
 ## Word List
 
 1. **baki** = this = this 1st one (declaration)
 1. **bako** = this = this 1st one (reference)
 1. **bana** = 1
 1. **banafu** = 1st
-1. **defu** = the previous sentence (special reference)
+1. **defu** = the meaning of the previous sentence (special reference)
 1. **deki** = that = that 2nd one (declaration)
 1. **deko** = that = that 2nd one (reference)
 1. **dena** = 2
@@ -522,11 +558,12 @@ This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference
 1. **do** = )
 1. **fa** = is (expressing a state or attribute)
 1. **fifi** = equals = is (expressing equality or identity)
+1. **fifu** = the present sentence as an entity (special reference)
 1. **fiki** = that = that 3rd one (declaration)
 1. **fiko** = that = that 3rd one (reference)
 1. **fina** = 3
 1. **finafu** = 3rd
-1. **gofu** = the next sentence (special reference)
+1. **gofu** = the meaning of the next sentence (special reference)
 1. **goki** = that = that 4th one (declaration)
 1. **goko** = that = that 4th one (reference)
 1. **gona** = 4
@@ -587,6 +624,6 @@ This pronoun was chosen logically. On the Nuda clock, 3 o'clock is the reference
 
 ---
 
-`20170103 / 20170205:1640`
+`20170103 / 20170206:1034`
 
 ---
