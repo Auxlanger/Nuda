@@ -111,6 +111,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170207 : Generalization, ma
 - 20170207 : Specification
 - 20170208 : Adjectives
+- 20170209 : -to, -ki
 
 ---
 
@@ -683,7 +684,11 @@ For two or more adjectives: ?
 
 #### Notes
 
-The adjective **xeno** means *new*.
+The adjective **xeno** means *new*. It can be converted into a noun by the addition of **-to** so as to mean *newness* (the degree of being new).
+
+The nouns **defona** and **kadefona** mean *fiction* and *non-fiction* respectively. They can be converted into the adjectives *fictional* (being fiction) and *non-fictional* (being non-fiction) by the addition of **-ki**.
+
+The final vowel of a word root does not indicate its part of speech. For example: **fume** (*book*), **lisusu** (*language*) and **defona** (*fiction*) are all nouns; **nu** (*good*), **mi** (*true*) and **xeno** (*new*) are all adjectives. You must memorize the meaning of a word root; there is no way to determine the part of speech of a word root from its structure. However, the structure of **xeno-to** (*newness*) clearly indicates by the presence of the hyphenated suffix **-to** that it is a noun (**xeno-to**) derived from an adjective (**xeno**). Similarly **defona-ki** (*fictional*) and **kadefona-ki** (*non-fictional*) are clearly adjectives derived from nouns.
 
 #### Examples
 
@@ -696,6 +701,11 @@ Adjective:
 
 > xeno.  
 > *New.*
+
+Noun:
+
+> xeno-to.  
+> *Newness.*
 
 Qualified noun:
 
@@ -726,6 +736,21 @@ Qualified generalized noun:
 
 Above, **ma** correctly generalizes **fume xeno** (*the new book*) to become **fume xeno ma** (*new books*). It would be ungrammatical to say **fume ma xeno**; that is, **ma**, if present, must end the noun phrase.
 
+Noun:
+
+> defona.  
+> *The fiction.*
+
+Generalized noun:
+
+> defona ma.  
+> *Fiction.*  
+> = *Fiction in general.*
+
+Adjective:
+
+> defona-ki.  
+> *Fictional.*
 
 ---
 
@@ -735,6 +760,8 @@ Above, **ma** correctly generalizes **fume xeno** (*the new book*) to become **f
 1. **bako** = this = this 1st one (reference)
 1. **bana** = 1
 1. **banafu** = 1st
+1. **defona** = fiction
+1. **defona-ki** = fictional
 1. **defu** = the meaning of the previous sentence (special reference)
 1. **deki** = that = that 2nd one (declaration)
 1. **deko** = that = that 2nd one (reference)
@@ -755,8 +782,11 @@ Above, **ma** correctly generalizes **fume xeno** (*the new book*) to become **f
 1. **gona** = 4
 1. **gonafu** = 4th
 1. **ka** = opposite
+1. **kadefona** = non-fiction
+1. **kadefona-ki** = non-fictional
 1. **kami** = false, incorrect, inaccurate
 1. **kanu** = bad, undesirable
+1. **-ki** = converts a noun *X* into an adjective meaning *being X*
 1. **kuki** = that = that 5th one (declaration)
 1. **kuko** = that = that 5th one (reference)
 1. **kuna** = 5
@@ -793,6 +823,7 @@ Above, **ma** correctly generalizes **fume xeno** (*the new book*) to become **f
 1. **tako** = that = that 11th one (reference)
 1. **tana** = 11
 1. **tanafu** = 11th
+1. **-to** = converts an adjective *X* into a noun meaning *the degree of being X*
 1. **tuni** = is a (expressing membership or classification)
 1. **xaki** = that = that 0th one (declaration)
 1. **xako** = that = that 0th one (reference)
@@ -803,6 +834,7 @@ Above, **ma** correctly generalizes **fume xeno** (*the new book*) to become **f
 1. **xena** = 12
 1. **xenafu** = 12th
 1. **xeno** = new, newly created
+1. **xeno-to** = newness (the degree of being new)
 
 
 <!--
@@ -812,6 +844,6 @@ Above, **ma** correctly generalizes **fume xeno** (*the new book*) to become **f
 
 ---
 
-`20170103 / 20170208:1344`
+`20170103 / 20170209:1632`
 
 ---
