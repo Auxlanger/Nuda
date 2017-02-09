@@ -110,8 +110,9 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170206 : fifu
 - 20170207 : Generalization, ma
 - 20170207 : Specification
-- 20170208 : Adjectives
+- 20170208 : Adjectives (singly applied)
 - 20170209 : -to, -ki
+- 20170210 : Adjectives (multiply applied as lists)
 
 ---
 
@@ -231,6 +232,8 @@ Pronunciation:
 
 > Formal speech: "sa bana na dena na fina do"  
 > Colloquial speech: "bana dena fina"
+
+You may pause slightly at the opening parenthesis of a list, at each comma in a list, and at the closing parenthesis of a list, to emphasize that you are enunciating the elements of a list.
 
 A list with 1 element:
 
@@ -680,7 +683,7 @@ To be able to qualify a noun by the use of one or more adjectives.
 
 For one adjective only: immediately follow the noun with the adjective.
 
-For two or more adjectives: ?
+For two or more adjectives: immediately follow the noun with a [list](#s2.-lists) of adjectives.
 
 #### Notes
 
@@ -751,6 +754,52 @@ Adjective:
 
 > defona-ki.  
 > *Fictional.*
+
+Noun:
+
+> fume.  
+> *The book.*
+
+Qualified noun:
+
+> fume xeno.  
+> *The new book.*
+
+Multiply qualified noun:
+
+> fume (defona-ki, xeno).  
+> *The new fictional book.*
+
+In a longer sentence:
+
+> fume (defona-ki, xeno) fa nu.  
+> *The new fictional book is good.*
+
+In an even longer sentence:
+
+> fume (defona-ki, xeno) fa (nu, mi).  
+> *The new fictional book is good and true.*
+
+Pronunciation (refer carefully to [**s2. Lists**](#s2.-lists)):
+
+> Written sentence: **fume (defona-ki, xeno) fa (nu, mi).**  
+> Colloquial pronunciation: "fume defona-ki xeno fa nu mi."  
+> Formal pronunciation: "fume sa defona-ki na xeno do fa nu na mi do."
+
+A generalization:
+
+> fume (defona-ki, xeno) ma fa nu.  
+> *New fictional books are good.*
+
+A statement about a bad book:
+
+> fume (kadefona-ki, kami, xeno) fa kanu.  
+> *The new, false, non-fiction book is bad.*
+
+A statement about a good book:
+
+> fume (kadefona-ki, mi, xeno) baki fa nu.  
+> *This new, true, non-fiction book is good.*
 
 ---
 
@@ -844,6 +893,6 @@ Adjective:
 
 ---
 
-`20170103 / 20170209:1632`
+`20170103 / 20170210:0149`
 
 ---
