@@ -112,7 +112,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170207 : Specification
 - 20170208 : Adjectives (singly applied)
 - 20170209 : -to, -ki
-- 20170210 : Adjectives (multiply applied as lists)
+- 20170210 : Adjectives (as lists after fa)
 - 20170210 : ma changed to masi (more audible in sentences)
 - 20170210 : Improved list grammar
 
@@ -683,13 +683,13 @@ To avoid such supersession, use the next pronoun pair (here **deki/deko**):
 
 #### Scope
 
-To be able to qualify a noun by the use of one or more adjectives.
+To be able to qualify a noun by the use of an adjective.
 
 #### Means
 
-For one adjective only: immediately follow the noun with the adjective.
+For 1 adjective only: immediately follow the noun with the adjective.
 
-For two or more adjectives: immediately follow the noun with a [list](#s2.-lists) of adjectives.
+It is ungrammatical to follow a noun with more than 1 adjective except by forming a sentence with the verb **fa** followed by a [list](#s2.-lists) of adjectives. That is, a noun phrase in itself cannot contain more than 1 adjective.
 
 #### Notes
 
@@ -771,48 +771,46 @@ Qualified noun:
 > fume xeno.  
 > *The new book.*
 
-Multiply qualified noun:
+Described noun:
 
-> fume (xeno na defona-ki).  
-> *The new fictional book.*
+> fume fa (xeno na nu).  
+> *The book is new and good.*
 
-In a longer sentence:
+Another equivalent form:
 
-> fume (xeno na defona-ki) fa nu.  
-> *The new fictional book is good.*
+> fume baki. bako fa (xeno na nu).  
+> *This book. It is new and good.*
 
-In an even longer sentence:
+Qualified and described noun:
 
-> fume (xeno na defona-ki) fa (nu na mi).  
-> *The new fictional book is good and true.*
+> fume xeno fa defona-ki.  
+> *The new book is fiction.*
+
+Other similar examples:
+
+> fume xeno baki. bako fa (xeno na nu).  
+> *This new book. It is new and good.*
+
+> fume xeno fa (kadefona-ki, mi na nu).  
+> *The new book is non-fiction, true and good.*
 
 Pronunciation (refer carefully to [**s2. Lists**](#s2.-lists)):
 
-> Written sentence: **fume (xeno na defona-ki) fa (nu na mi).**  
-> Colloquial pronunciation: "fume xeno na defona-ki fa nu mi."  
-> Formal pronunciation: "fume do xeno na defona-ki sa fa do nu na mi sa."
+> Written sentence: **fume xeno fa (kadefona-ki, mi na nu).**  
+> Colloquial pronunciation: "fume xeno fa (kadefona-ki, mi na nu)."  
+> Formal pronunciation: "fume xeno fa do kadefona-ki na mi na nu sa."
 
 A generalization:
 
-> fume (xeno na defona-ki) masi fa nu.  
-> *New fictional books are good.*
+> fume xeno masi fa nu.  
+> *New books are good.*
 
 A statement about a bad book:
 
-> fume (xeno, kami na kadefona-ki) fa kanu.  
-> *The new, untrue, non-fiction book is bad.*
-
-The following is better style because it is easier to understand:
-
-> fume baki. bako fa (xeno, kami na kadefona-ki). bako fa kanu.  
-> *This book. It is new, untrue and non-fiction. It is bad.*
+> fume xeno baki. bako fa kadefona-ki. bako fa kami. bako fa kanu.  
+> *This new book. It is non-fiction. It is untrue. It is bad.*
 
 A statement about a good book:
-
-> fume (xeno, mi na kadefona-ki) baki fa nu.  
-> *This new, true, non-fiction book is good.*
-
-In better style:
 
 > fume baki. bako fa (xeno, mi na kadefona-ki). bako fa nu.  
 > *This book. It is new, true and non-fiction. It is good.*
@@ -910,6 +908,6 @@ In better style:
 
 ---
 
-`20170103 / 20170210:1222`
+`20170103 / 20170210:1626`
 
 ---
