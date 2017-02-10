@@ -215,9 +215,9 @@ To be able to express a list.
 
 #### Means
 
-- Start the list with the delimiter **(** which is pronounced **sa**
+- Start the list with the delimiter **(** which is pronounced **do**
 - Separate list elements with the delimiter **,** which is pronounced **na**
-- End the list with the delimiter **)** which is pronounced **do**
+- End the list with the delimiter **)** which is pronounced **sa**
 
 In colloquial speech you can choose not to pronounce these delimiters, instead only pronouncing each of the actual list elements themselves. In formal speech the delimiters are pronounced.
 
@@ -230,7 +230,7 @@ A list with 3 elements:
 
 Pronunciation:
 
-> Formal speech: "sa bana na dena na fina do"  
+> Formal speech: "do bana na dena na fina sa"  
 > Colloquial speech: "bana dena fina"
 
 You may pause slightly at the opening parenthesis of a list, at each comma in a list, and at the closing parenthesis of a list, to emphasize that you are enunciating the elements of a list.
@@ -241,7 +241,7 @@ A list with 1 element:
 
 Pronunciation:
 
-> Formal speech: "sa bana do"  
+> Formal speech: "do bana sa"  
 > Colloquial speech: "bana"
 
 
@@ -784,7 +784,7 @@ Pronunciation (refer carefully to [**s2. Lists**](#s2.-lists)):
 
 > Written sentence: **fume (xeno, defona-ki) fa (nu, mi).**  
 > Colloquial pronunciation: "fume xeno defona-ki fa nu mi."  
-> Formal pronunciation: "fume sa xeno na defona-ki do fa nu na mi do."
+> Formal pronunciation: "fume do xeno na defona-ki do fa nu na mi sa."
 
 A generalization:
 
@@ -816,7 +816,7 @@ A statement about a good book:
 1. **deko** = that = that 2nd one (reference)
 1. **dena** = 2
 1. **denafu** = 2nd
-1. **do** = )
+1. **do** = (
 1. **fa** = is (expressing a state or attribute)
 1. **fifi** = equals = is (expressing equality or identity)
 1. **fifu** = the present sentence as an entity (special reference)
