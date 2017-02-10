@@ -767,38 +767,38 @@ Qualified noun:
 
 Multiply qualified noun:
 
-> fume (defona-ki, xeno).  
+> fume (xeno, defona-ki).  
 > *The new fictional book.*
 
 In a longer sentence:
 
-> fume (defona-ki, xeno) fa nu.  
+> fume (xeno, defona-ki) fa nu.  
 > *The new fictional book is good.*
 
 In an even longer sentence:
 
-> fume (defona-ki, xeno) fa (nu, mi).  
+> fume (xeno, defona-ki) fa (nu, mi).  
 > *The new fictional book is good and true.*
 
 Pronunciation (refer carefully to [**s2. Lists**](#s2.-lists)):
 
-> Written sentence: **fume (defona-ki, xeno) fa (nu, mi).**  
-> Colloquial pronunciation: "fume defona-ki xeno fa nu mi."  
-> Formal pronunciation: "fume sa defona-ki na xeno do fa nu na mi do."
+> Written sentence: **fume (xeno, defona-ki) fa (nu, mi).**  
+> Colloquial pronunciation: "fume xeno defona-ki fa nu mi."  
+> Formal pronunciation: "fume sa xeno na defona-ki do fa nu na mi do."
 
 A generalization:
 
-> fume (defona-ki, xeno) ma fa nu.  
+> fume (xeno, defona-ki) ma fa nu.  
 > *New fictional books are good.*
 
 A statement about a bad book:
 
-> fume (kadefona-ki, kami, xeno) fa kanu.  
+> fume (xeno, kami, kadefona-ki) fa kanu.  
 > *The new, false, non-fiction book is bad.*
 
 A statement about a good book:
 
-> fume (kadefona-ki, mi, xeno) baki fa nu.  
+> fume (xeno, mi, kadefona-ki) baki fa nu.  
 > *This new, true, non-fiction book is good.*
 
 ---
@@ -893,6 +893,6 @@ A statement about a good book:
 
 ---
 
-`20170103 / 20170210:0149`
+`20170103 / 20170210:1026`
 
 ---
