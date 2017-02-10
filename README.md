@@ -863,7 +863,7 @@ A statement about a good book:
 1. **poko** = that = that 9th one (reference)
 1. **pona** = 9
 1. **ponafu** = 9th
-1. **sa** = (
+1. **sa** = )
 1. **suki** = that = that 10th one (declaration)
 1. **suko** = that = that 10th one (reference)
 1. **suna** = 10
@@ -893,6 +893,6 @@ A statement about a good book:
 
 ---
 
-`20170103 / 20170210:1026`
+`20170103 / 20170210:1052`
 
 ---
