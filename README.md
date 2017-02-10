@@ -113,6 +113,9 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170208 : Adjectives (singly applied)
 - 20170209 : -to, -ki
 - 20170210 : Adjectives (multiply applied as lists)
+- 20170210 : ma changed to masi (more audible in sentences)
+- 20170210 : Improved list grammar
+
 
 ---
 
@@ -896,6 +899,6 @@ A statement about a good book:
 
 ---
 
-`20170103 / 20170210:1150`
+`20170103 / 20170210:1152`
 
 ---
