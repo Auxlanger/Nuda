@@ -800,12 +800,23 @@ A generalization:
 A statement about a bad book:
 
 > fume (xeno, kami na kadefona-ki) fa kanu.  
-> *The new, false, non-fiction book is bad.*
+> *The new, untrue, non-fiction book is bad.*
+
+The following is better style because it is easier to understand:
+
+> fume baki. bako fa (xeno, kami na kadefona-ki). bako fa kanu.  
+> *This book. It is new, untrue and non-fiction. It is bad.*
 
 A statement about a good book:
 
 > fume (xeno, mi na kadefona-ki) baki fa nu.  
 > *This new, true, non-fiction book is good.*
+
+In better style:
+
+> fume baki. bako fa (xeno, mi na kadefona-ki). bako fa nu.  
+> *This book. It is new, true and non-fiction. It is good.*
+
 
 ---
 
@@ -839,7 +850,7 @@ A statement about a good book:
 1. **ka** = opposite
 1. **kadefona** = non-fiction
 1. **kadefona-ki** = non-fictional
-1. **kami** = false, incorrect, inaccurate
+1. **kami** = false, incorrect, untrue
 1. **kanu** = bad, undesirable
 1. **-ki** = converts a noun *X* into an adjective meaning *being X*
 1. **kuki** = that = that 5th one (declaration)
@@ -899,6 +910,6 @@ A statement about a good book:
 
 ---
 
-`20170103 / 20170210:1152`
+`20170103 / 20170210:1222`
 
 ---
