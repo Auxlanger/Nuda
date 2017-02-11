@@ -405,19 +405,19 @@ To be able to express:
 
 #### Means
 
-Use the verb **fifi**.
+Use the verb **fi**.
 
 #### Notes
 
-This verb was chosen logically. The hands of the Nuda clock show the time as being 3 o'clock. The syllable at that position is **fi**. This position on the clock is a reference point from which words, such as mathematical operators, are logically derived relative to the integer 3. The word **fifi** is the verb "to equal" (or "is" in the sense of equality) because it reduplicates the **fi** syllable to imply **(3, 3)** and the relationship between 3 and 3 is one of equality.
+This verb was chosen logically. The hands of the Nuda clock show the time as being 3 o'clock. The syllable at that position is **fi**. This position on the clock is a reference point from which words, such as mathematical operators, are logically derived relative to the integer 3. The word **fi** is the verb "to equal" (or "is" in the sense of equality) because it is this very reference point.
 
 #### Examples
 
-> Nuda fifi Nuda.  
+> Nuda fi Nuda.  
 > *Nuda is Nuda.*
 
 
-> bana fifi bana.  
+> bana fi bana.  
 > *One equals one.*  
 > 1 = 1
 
@@ -449,7 +449,7 @@ The word **mi** was rolled. It means *true*. Thus **kami** means *false*.
 > = *1 = 1. The previous sentence is true.*
 
 
-> bana fifi bana. defu fa mi.  
+> bana fi bana. defu fa mi.  
 > *One equals one. That is true.*  
 > = *One equals one. The previous sentence is true.*
 
@@ -459,7 +459,7 @@ The word **mi** was rolled. It means *true*. Thus **kami** means *false*.
 > = *1 = 2. The previous sentence is false.*
 
 
-> bana fifi dena. defu fa kami.  
+> bana fi dena. defu fa kami.  
 > *One equals two. That is false.*  
 > = *One equals two. The previous sentence is false.*
 
@@ -502,7 +502,7 @@ The referential pronoun **gofu** is used occasionally.
 > *The next sentence is true. 1 = 1.*
 
 
-> gofu fa mi. bana fifi bana.  
+> gofu fa mi. bana fi bana.  
 > *The next sentence is true. One equals one.*
 
 
@@ -510,7 +510,7 @@ The referential pronoun **gofu** is used occasionally.
 > *The next sentence is false. 1 = 2.*
 
 
-> gofu fa kami. bana fifi dena.  
+> gofu fa kami. bana fi dena.  
 > *The next sentence is false. One equals two.*
 
 
@@ -833,7 +833,7 @@ A statement about a good book:
 1. **denafu** = 2nd
 1. **do** = (
 1. **fa** = is (expressing a state or attribute)
-1. **fifi** = equals = is (expressing equality or identity)
+1. **fi** = equals = is (expressing equality or identity)
 1. **fifu** = the present sentence as an entity (special reference)
 1. **fiki** = that = that 3rd one (declaration)
 1. **fiko** = that = that 3rd one (reference)
@@ -908,6 +908,6 @@ A statement about a good book:
 
 ---
 
-`20170103 / 20170211:1213`
+`20170103 / 20170211:1228`
 
 ---
