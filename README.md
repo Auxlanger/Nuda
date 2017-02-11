@@ -271,7 +271,7 @@ In everyday speech the most common of these pairs are **baki**/**bako** (*this*,
 
 You and a friend are looking at 3 trees. You point at each tree in turn, from left to right, while saying:
 
-> (baki, deki, fiki).  
+> (baki, deki na fiki).  
 > *This first one, that second one, that third one.*
 
 You friend asks you which one you think is tallest. You say:
@@ -908,6 +908,6 @@ A statement about a good book:
 
 ---
 
-`20170103 / 20170210:1626`
+`20170103 / 20170211:1213`
 
 ---
