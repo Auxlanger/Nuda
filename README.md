@@ -58,6 +58,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
     - [**s11. Generalization: masi**](#s11.-generalization-masi)
     - [**s12. Specification**](#s12.-specification)
     - [**s13. Adjectives**](#s13.-adjectives)
+    - [**s14. Good style**](#s14.-good-style)
 - [**Word List**](#word-list)
 
 ---
@@ -115,6 +116,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170210 : Adjectives (as lists after fa)
 - 20170210 : ma changed to masi (more audible in sentences)
 - 20170210 : Improved list grammar
+- 20170211 : Notes on good style
 
 
 ---
@@ -818,6 +820,86 @@ A statement about a good book:
 
 ---
 
+### s14. Good style
+
+#### Scope
+
+To be most easily understood by adopting good style.
+
+#### Means
+
+* Keep sentences short, simple, and easy to understand.
+* Use [demonstratives](#s3.-singular-demonstratives) and/or words like [*defu*](#s8.-previous-sentence-defu) or [*gofu*](#s9.-next-sentence-gofu) to relate one sentence to the next.
+* To express complex matters, relate several short sentences to each other.
+
+#### Notes
+
+The [demonstratives](#s3.-singular-demonstratives) of Nuda are numerous and powerful, yet they are easy to use since they are essentially just an ordinal series of pairs (**baki/bako**, **deki/deko**, **fiki**/**fiko**, **goki/goko** and so on). Furthermore, Nuda has words like [*defu*](#s8.-previous-sentence-defu) and [*gofu*](#s9.-next-sentence-gofu) which concisely refer to the meaning of the previous and following sentences respectively. Nuda does not have relative clauses. Instead it has relative sentences. Complex matters should be expressed by relating several short sentences to each other.
+
+It is quite normal to use fragmentary sentences such as the first sentence in **fume baki. bako fa nu.** (*This book. It is good.*). Indeed, **fume mi baki. bako fa nu.** (*This true book. It is good.*) is considered better style than **fume mi baki fa nu.** (*This true book is good.*) because the former is easier to parse and better reinforces the meaning of the demonstrative pair.
+
+#### Examples
+
+##### (1) This book, which is good, is new.
+
+In moderately good style:
+
+> fume nu baki. bako fa xeno.  
+> *This good book. It is new.*  
+> = *This good book is new.*
+
+In very good style:
+
+> fume baki. bako fa (nu na xeno).  
+> *This book. It is good and new.*  
+> = *This book is good and new.*
+
+
+##### (2) This book, which is true, is good and that book, which is untrue, is bad.
+
+In moderately good style:
+
+> fume mi baki. bako fa nu. fume kami deki. deko fa kanu.  
+> *This true book. It is good. That false book. It is bad.*
+
+In very good style which is easier to follow:
+
+> fume baki. fume deki. bako fa (mi na nu). deko fa (kami na kanu).  
+> *This book. That book. This one is true and good. That one is false and bad.*
+
+##### (3) It is good that this book, which is new, is true.
+
+In moderately good style:
+
+> fume xeno baki fa mi. defu fa nu.  
+> *This new book is true. That's good.*  
+> = *This new book is true. And that is a good thing.*  
+> = *It is good that this new book is true.*
+
+Or if you prefer:
+
+> gofu fa nu. fume xeno baki fa mi.  
+> *Here is something good: This new book is true.*  
+> = *The next sentence is something good. This new book is true.*  
+> = *It is good that this new book is true.*
+
+In very good style:
+
+> fume xeno baki. bako fa mi. defu fa nu.  
+> *This new book. It is true. That's good.*  
+> = *This new book. It is true. And that is a good thing.*  
+> = *It is good that this new book is true.*
+
+Or if you prefer:
+
+> fume xeno baki. gofu fa nu. bako fa mi.  
+> *This new book. Here is something good: It is true.*  
+> = *This new book. The next sentence is something good. The book is true.*  
+> = *It is good that this new book is true.*
+
+
+---
+
 ## Word List
 
 1. **baki** = this = this 1st one (declaration)
@@ -908,6 +990,6 @@ A statement about a good book:
 
 ---
 
-`20170103 / 20170211:1228`
+`20170103 / 20170212:0200`
 
 ---
