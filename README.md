@@ -60,6 +60,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
     - [**s13. Adjectives**](#s13.-adjectives)
     - [**s14. Good style**](#s14.-good-style)
     - [**s15. Referencing generalizations**](#s15.-referencing-generalizations)
+    - [**d15. Demo**](#d15.-demo)
 - [**Word List**](#word-list)
 
 ---
@@ -360,7 +361,7 @@ Here the referential pronoun **bako** refers specifically to the very same thing
 To be able to express:
 
 - "is" in the sense of expressing an adjectival state or adjectival attribute
-- "is" in the sense of identifying a language being used
+- "is" in the sense of identifying a language (as an adjectival attribute)
 
 #### Means
 
@@ -372,6 +373,8 @@ The verb **fa** was rolled.
 
 The word **nu** means *good* or *desirable* and was chosen since it corresponds to the first syllable of **Nuda** and is therefore easy to remember. The word **ka** means *opposite* and was chosen for its phonetic clarity and ease. Therefore **kanu** means *bad*.
 
+**Nuda** is a noun. **Nuda-ki** is the equivalent adjective. It would be ungrammatical to say **baki fa Nuda** because **fa** can only be followed by an adjectival state or adjectival attribute; it cannot be followed by a noun.
+
 #### Examples
 
 You say:
@@ -381,18 +384,34 @@ You say:
 
 To explain that you are speaking Nuda you say:
 
-> baki fa Nuda.  
-> *This is Nuda.*
+> baki fa Nuda-ki.  
+> *This is in Nuda.*
+> = *What I am saying now is in Nuda.*
 
-And then you say:
+Or you could say:
 
-> bako fa nu.  
-> *It is good.*
+> fifu fa Nuda-ki.  
+> *This very sentence is in Nuda.*
+> = *The very sentence I am saying now is in Nuda.*
+
+You point at a book written in Nuda and say:
+
+> baki fa Nuda-ki. bako fa nu.  
+> = *This is in Nuda. It [the book] is good.*
+> = *This book is in Nuda. It [the book] is good.*
+> = *This book is in Nuda. The book is good.*
+
+Now you talk about the Nuda language itself:
+
+> Nuda baki. bako fa nu.  
+> *This Nuda. It is good.*
+> = *Nuda is good.*
 
 Your friend disagrees and says:
 
 > bako fa kanu.  
 > *It is bad.*
+> = *Nuda is bad.*
 
 
 ---
@@ -935,6 +954,44 @@ In the sentence **fume xeno masi baki.** the word **baki** has no translation in
 
 ---
 
+### d15. Demo
+
+Here is a demo of the language so far:
+
+#### Nuda
+
+Nuda tuni lisusu. defu fa mi. fifu fa Nuda-ki.
+
+Nuda baki. bako fa xeno. bako fa nu. lisusu masi deki. deko fa nu.
+
+deko fa sama. bako fa kasama.
+
+#### English
+
+Nuda is a language. That's true. This sentence is in Nuda.
+
+Nuda is new. It is good. Languages are good.
+
+Languages are difficult. Nuda is easy.
+
+#### Literal translation
+
+Nuda is a language. The previous sentence is true. The present sentence is in Nuda.
+
+This Nuda, it is new. It is good. Languages in general, they are good.
+
+They \[languages in general\] are difficult. It \[Nuda\] is easy.
+
+#### Vocabulary
+
+Some new vocabulary was added for this demo:
+
+1. **sama** = diffucult
+1. **kasama** = easy
+
+
+---
+
 ## Word List
 
 1. **baki** = this = this 1st one (declaration)
@@ -967,6 +1024,7 @@ In the sentence **fume xeno masi baki.** the word **baki** has no translation in
 1. **kadefona-ki** = non-fictional
 1. **kami** = false, incorrect, untrue
 1. **kanu** = bad, undesirable
+1. **kasama** = easy
 1. **-ki** = converts a noun *X* into an adjective meaning *being X*
 1. **kuki** = that = that 5th one (declaration)
 1. **kuko** = that = that 5th one (reference)
@@ -990,12 +1048,14 @@ In the sentence **fume xeno masi baki.** the word **baki** has no translation in
 1. **niko** = that = that 8th one (reference)
 1. **nina** = 8
 1. **ninafu** = 8th
-1. **Nuda** = Nuda
+1. **Nuda** = Nuda (noun)
+1. **Nuda** = Nuda-ki (adjective)
 1. **poki** = that = that 9th one (declaration)
 1. **poko** = that = that 9th one (reference)
 1. **pona** = 9
 1. **ponafu** = 9th
 1. **sa** = )
+1. **sama** = difficult
 1. **suki** = that = that 10th one (declaration)
 1. **suko** = that = that 10th one (reference)
 1. **suna** = 10
@@ -1025,6 +1085,6 @@ In the sentence **fume xeno masi baki.** the word **baki** has no translation in
 
 ---
 
-`20170103 / 20170212:1445`
+`20170103 / 20170212:1608`
 
 ---
