@@ -986,7 +986,7 @@ They \[languages in general\] are difficult. It \[Nuda\] is easy.
 
 Some new vocabulary was added for this demo:
 
-1. **sama** = diffucult
+1. **sama** = difficult
 1. **kasama** = easy
 
 
@@ -1085,6 +1085,6 @@ Some new vocabulary was added for this demo:
 
 ---
 
-`20170103 / 20170212:1608`
+`20170103 / 20170212:1612`
 
 ---
