@@ -118,6 +118,7 @@ The language is intended to be **fun and practical**. It is not intended to riva
 - 20170210 : ma changed to masi (more audible in sentences)
 - 20170210 : Improved list grammar
 - 20170211 : Notes on good style
+- 20170212 : Referencing generalizations
 
 
 ---
