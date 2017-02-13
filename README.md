@@ -989,6 +989,10 @@ Some new vocabulary was added for this demo:
 1. **sama** = difficult
 1. **kasama** = easy
 
+In pairs of words representing qualities of opposite meaning, and constructed using the prefix **ka**, the unprefixed member of the pair is the quality which if quantified would increase as the degree of that quality increases and which could potentially be extremely or infinitely large. Thus the concepts *hot* and *heat* in Nuda would be unprefixed and the concepts *cold* and *coldness* would take **ka**, since temperature quantification begins at absolute zero. Therefore *difficult* is the unprefixed **sama** and *easy* is **kasama** because difficulty can be infinitely large but nothing can be easier than zero difficulty. Such conceptual pairs are known as *asymmetric pairs* because one side of the pair has a zero limit but the other side of the pair is unlimited or more expansive.
+
+A *symmetric pair* of qualities has no such asymmetry. For example, **mi/kami** (*true/false*), **nu/kanu** (*good/bad*) or **defona/kadefona** (*fiction/non-fiction*). The unprefixed member of a symmetric pair is the one which is typically more desirable (or mathematically positive) or, only if there is no typical difference in desirability (or sign), the one which in English would be unprefixed. All this is purely a mnemonic device and not a matter of philosophy. It is easy to remember that *true* is more desirable than *false*, and that *good* is more desirable than *bad*. And in English we have *fiction* and *non-fiction*, they are a symmetric pair and neither is more desirable than the other so we follow the English pattern that *fiction* is unprefixed and *non-fiction* is prefixed. Some symmetric pairs are arbitrary.
+
 
 ---
 
@@ -1085,6 +1089,6 @@ Some new vocabulary was added for this demo:
 
 ---
 
-`20170103 / 20170212:1612`
+`20170103 / 20170213:1413`
 
 ---
