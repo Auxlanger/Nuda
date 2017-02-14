@@ -385,32 +385,32 @@ You say:
 To explain that you are speaking Nuda you say:
 
 > baki fa Nuda-ki.  
-> *This is in Nuda.*
+> *This is in Nuda.*  
 > = *What I am saying now is in Nuda.*
 
 Or you could say:
 
 > fifu fa Nuda-ki.  
-> *This very sentence is in Nuda.*
+> *This very sentence is in Nuda.*  
 > = *The very sentence I am saying now is in Nuda.*
 
 You point at a book written in Nuda and say:
 
 > baki fa Nuda-ki. bako fa nu.  
-> = *This is in Nuda. It [the book] is good.*
-> = *This book is in Nuda. It [the book] is good.*
+> = *This is in Nuda. It [the book] is good.*  
+> = *This book is in Nuda. It [the book] is good.*  
 > = *This book is in Nuda. The book is good.*
 
 Now you talk about the Nuda language itself:
 
 > Nuda baki. bako fa nu.  
-> *This Nuda. It is good.*
+> *This Nuda. It is good.*  
 > = *Nuda is good.*
 
 Your friend disagrees and says:
 
 > bako fa kanu.  
-> *It is bad.*
+> *It is bad.*  
 > = *Nuda is bad.*
 
 
@@ -1089,6 +1089,6 @@ A *symmetric pair* of qualities has no such asymmetry. For example, **mi/kami** 
 
 ---
 
-`20170103 / 20170213:1413`
+`20170103 / 20170214:2130`
 
 ---
