@@ -40,6 +40,7 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
 - [**Introduction**](#introduction)
 - [**Size of the Language**](#size-of-the-language)
 - [**Foreign Letters**](#foreign-letters)
+- [**Associations**](#associations)
 - [**Reference**](#reference)
 
 ---
@@ -152,6 +153,38 @@ Therefore the mathematical symbol ***π*** (pi) is pronounced /pa-di/.
 
 ---
 
+## Associations
+
+Nuda is not a philosophical language. That is, its vocabulary is not structured into hierarchical classifications. However, mnemonic devices are *sometimes* used to ease recollection of vocabulary. One such device is that certain sounds are *sometimes* associated with certain fuzzy concepts. Think of this as occasional tagging rather than classification.
+
+Some fundamental associations are:
+
+|       | Bearing |       | Elevation |       |
+| :---: | :---:   | :---: | :---:     | :---: |
+|       | **b**   |       | **n**     |       |
+|       | ahead   |       | up        |       |
+| **l** |         | **d** |           |       |
+| left  |         | right |           |       |
+|       | **g**   |       | **z**     |       |
+|       | behind  |       | down      |       |
+
+Some derived associations are:
+
+|         | Geography   | Position          | Progress  | Trend     |
+| :---:   | :---:       | :---:             | :---:     | :---:     |
+| **b**   | north       | in front          | advance   |           |
+| **g**   | south       | behind            | retreat   |           |
+| **d**   | east        | to the right      |           |           |
+| **l**   | west        | to the left       |           |           |
+| **n**   | high        | above             |           |           |
+| **z**   | low         | below             |           |           |
+| **a**   |             |                   |           | less      |
+| **i**   |             |                   |           | same      |
+| **u**   |             |                   |           | more      |
+
+
+---
+
 ## Reference
 
 1. **-di** = used in the names of many Greek letters
@@ -164,6 +197,6 @@ Therefore the mathematical symbol ***π*** (pi) is pronounced /pa-di/.
 
 ---
 
-`20170103 / 201704429:1451`
+`20170103 / 201704430:1604`
 
 ---
