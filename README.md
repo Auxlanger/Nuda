@@ -159,14 +159,14 @@ Nuda is not a philosophical language. That is, its vocabulary is not structured 
 
 Some fundamental associations are:
 
-|       | Bearing |       | Elevation |       |
-| :---: | :---:   | :---: | :---:     | :---: |
-|       | **b**   |       | **n**     |       |
-|       | ahead   |       | up        |       |
-| **l** |         | **d** |           |       |
-| left  |         | right |           |       |
-|       | **g**   |       | **z**     |       |
-|       | behind  |       | down      |       |
+|       | Bearing |       | Elevation |
+| :---: | :---:   | :---: | :---:     |
+|       | **b**   |       | **n**     |
+|       | ahead   |       | up        |
+| **l** |         | **d** |           |
+| left  |         | right |           |
+|       | **g**   |       | **z**     |
+|       | behind  |       | down      |
 
 Some derived associations are:
 
@@ -197,6 +197,6 @@ Some derived associations are:
 
 ---
 
-`20170103 / 201704430:1604`
+`20170103 / 201704430:1613`
 
 ---
