@@ -55,12 +55,11 @@ Some word roots are randomly generated.
 
 ## Size of the Language
 
-There are 10 native letters:
+There are 9 native letters:
 
-1. **a** = /a/
+1. **a** = /a/ or /ə/ when unstressed
 1. **b** = /b/
 1. **d** = /d/
-1. **e** = /ə/ = schwa
 1. **g** = /g/
 1. **i** = /i/
 1. **l** = /l/
@@ -68,24 +67,25 @@ There are 10 native letters:
 1. **u** = /u/
 1. **z** = /z/
 
-Thus the word **Nuda** is pronounced /nuda/.
+Thus the word **Nuda** is pronounced /nuda/ or /nudə/.
 
 Names of the native letters are:
 
-- **a, ba, da, e, ga, i, la, na, u, za**
+- **a, ba, da, ga, i, la, na, u, za**
 
 Thus the native Nuda alphabet is pronounced as:
 
-- **a, ba, da, e, ga, i, la, na, u, za** = /a ba da ə ga i la na u za/
+- **a, ba, da, ga, i, la, na, u, za** =  
+/a ba da ga i la na u za/
 
-Syllable structure of the 576 native disyllables is CVCV where:
+Syllable structure of the 324 native disyllables is CVCV where:
 
 - C = **b d g l n z**
-- V = **a e i u**
+- V = **a i u**
 
-Syllable structure of the 28 native monosyllables is V or CV.
+Syllable structure of the 21 native monosyllables is V or CV.
 
-Word roots consist of 1 or 2 syllables, so there are 604 native word roots.
+Word roots consist of 1 or 2 syllables, so there are 345 native word roots.
 
 Compound words are formed using hyphens.
 
@@ -98,6 +98,7 @@ Foreign letters are only used in foreign words or as symbols.
 The foreign Roman letters are:
 
 - **c** = /tʃ/
+- **e** = /ɛ/ not /ə/
 - **f** = /f/
 - **h** = /h/
 - **j** = /ʒ/
@@ -112,15 +113,16 @@ The foreign Roman letters are:
 - **v** = /v/
 - **w** = /w/
 - **x** = /ʃ/
-- **y** = /y/
+- **y** = /j/
 
 Names of the foreign Roman letters are:
 
-- **ca, fa, ha, ja, ka, ma, o, pa, qa, ra, sa, ta, va, wa, xa, ya**
+- **ca, e, fa, ha, ja, ka, ma, o, pa, qa, ra, sa, ta, va, wa, xa, ya**
 
 Therefore the English alphabet would be pronounced in Nuda as:
 
-- **a, ba, ca, da, e, fa, ga, ha, ja, ka, la, ma, na, o, pa, qa, ra, sa, ta, u, va, wa, xa, ya, za**
+- **a, ba, ca, da, e, fa, ga, ha, ja, ka, la, ma, na, o, pa, qa, ra, sa, ta, u, va, wa, xa, ya, za** =  
+/a, ba, tʃa, da, ɛ, fa, ga, ha, ʒa, ka, la, ma, na, o, pa, kwa, ɹa, sa, ta, u, va, wa, ʃa, ja, za/
 
 Names of the foreign Greek letters are:
 
@@ -161,26 +163,30 @@ Some fundamental associations are:
 
 |       | Bearing |       | Elevation |
 | :---: | :---:   | :---: | :---:     |
-|       | **b**   |       | **n**     |
-|       | ahead   |       | up        |
+|       |         |       | **n**     |
+|       |         |       | up        |
+|       | **b**   |       |           |
+|       | ahead   |       |           |
 | **l** |         | **d** |           |
 | left  |         | right |           |
-|       | **g**   |       | **z**     |
-|       | behind  |       | down      |
+|       | **g**   |       |           |
+|       | behind  |       |           |
+|       |         |       | **z**     |
+|       |         |       | down      |
 
-Some derived associations are:
+Some other associations are:
 
-|         | Geography   | Position          | Progress  | Trend     |
-| :---:   | :---:       | :---:             | :---:     | :---:     |
-| **b**   | north       | in front          | advance   |           |
-| **g**   | south       | behind            | retreat   |           |
-| **d**   | east        | to the right      |           |           |
-| **l**   | west        | to the left       |           |           |
-| **n**   | high        | above             |           |           |
-| **z**   | low         | below             |           |           |
-| **a**   |             |                   |           | less      |
-| **i**   |             |                   |           | same      |
-| **u**   |             |                   |           | more      |
+|         | Geography   | Position          | Progress  | Comparison | Math  | Verb  |
+| :---:   | :---:       | :---:             | :---:     | :---:      | :---: | :---: |
+| **b**   | north       | in front          | advance   |            |       |       |
+| **g**   | south       | behind            | retreat   |            |       |       |
+| **d**   | east        | to the right      |           |            |       |       |
+| **l**   | west        | to the left       |           |            |       |       |
+| **n**   | high        | above             |           |            |       |       |
+| **z**   | low         | below             |           |            |       |       |
+| **a**   |             |                   |           | less       | -     |       |
+| **i**   |             |                   |           | same       | =     | is    |
+| **u**   |             |                   |           | more       | +     |       |
 
 
 ---
@@ -197,6 +203,6 @@ Some derived associations are:
 
 ---
 
-`20170103 / 201704430:1613`
+`20170103 / 201704430:1658`
 
 ---
