@@ -121,8 +121,8 @@ Names of the foreign Roman letters are:
 
 Therefore the English alphabet would be pronounced in Nuda as:
 
-- **a, ba, ca, da, e, fa, ga, ha, ja, ka, la, ma, na, o, pa, qa, ra, sa, ta, u, va, wa, xa, ya, za** =  
-/a, ba, tʃa, da, ɛ, fa, ga, ha, ʒa, ka, la, ma, na, o, pa, kwa, ɹa, sa, ta, u, va, wa, ʃa, ja, za/
+- **a, ba, ca, da, e, fa, ga, ha, i, ja, ka, la, ma, na, o, pa, qa, ra, sa, ta, u, va, wa, xa, ya, za** =  
+/a, ba, tʃa, da, ɛ, fa, ga, ha, i, ʒa, ka, la, ma, na, o, pa, kwa, ɹa, sa, ta, u, va, wa, ʃa, ja, za/
 
 Names of the foreign Greek letters are:
 
@@ -188,6 +188,39 @@ Some other associations are:
 | **i**   |             |                   |           | same       | =     | is    |
 | **u**   |             |                   |           | more       | +     |       |
 
+Some numerical associations are:
+
+ - 0 = **zu**
+ - 1 = **bi**
+ - 2 = **bu**
+ - 3 = **di**
+ - 4 = **du**
+ - 5 = **gi**
+ - 6 = **gu**
+ - 7 = **li**
+ - 8 = **lu**
+ - 9 = **ni**
+ - 10 = **nu**
+ - 11 = **nu-bi**
+ - 12 = **nu-bu**
+ - 13 = **nu-di**
+ - 20 = **bunu**
+ - 30 = **dinu**
+ - 40 = **dunu**
+ - 100 = **nunu**
+ - 1,000 = (1000^1) = **bizi**
+ - 1,000,000 = (1000^2) = **buzi**
+ - 1,000,000,000 = (1000^3) = **dizi**
+ - 1,000,000,000,000 = (1000^4) = **duzi**
+ - 1,000,000,000,000,000 = (1000^5) = **gizi**
+
+The speed of light in metres per second is:
+
+ - 299,792,458 = **bu-nunu-ninu-ni-buzi, li-nunu-ninu-bu-bizi, du-nunu-ginu-lu**
+
+Or read out simply as digits it is:
+
+ - 299792458 = **bu-ni-ni-li-ni-bu-du-gi-lu**
 
 ---
 
@@ -203,6 +236,6 @@ Some other associations are:
 
 ---
 
-`20170103 / 201704430:1658`
+`20170103 / 20170503:2245`
 
 ---
