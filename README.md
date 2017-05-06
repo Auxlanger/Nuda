@@ -161,32 +161,32 @@ Nuda is not a philosophical language. That is, its vocabulary is not structured 
 
 Some fundamental associations are:
 
-|       Bearing       Elevation
-| :---: :---:   :---: :---:    
-|                     **n**    
-|                     up       
-|       **b**                  
-|       ahead                  
-| **l**         **d**          
-| left          right          
-|       **g**                  
-|       behind                 
-|                     **z**    
-|                     down     
+|       | Bearing |       | Elevation |
+| :---: | :---:   | :---: | :---:     |
+|       |         |       | **n**     |
+|       |         |       | up        |
+|       | **b**   |       |           |
+|       | ahead   |       |           |
+| **l** |         | **d** |           |
+| left  |         | right |           |
+|       | **g**   |       |           |
+|       | behind  |       |           |
+|       |         |       | **z**     |
+|       |         |       | down      |
 
 Some other associations are:
 
-|         Geography   Position          Progress  Comparison Math  Verb 
-| :---:   :---:       :---:             :---:     :---:      :---: :---:
-| **b**   north       in front          advance                         
-| **g**   south       behind            retreat                         
-| **d**   east        to the right                                      
-| **l**   west        to the left                                       
-| **n**   high        above                                             
-| **z**   low         below                                             
-| **a**                                           less       -          
-| **i**                                           same       =     is   
-| **u**                                           more       +          
+|         | Geography   | Position          | Progress  | Comparison | Math  | Verb  |
+| :---:   | :---:       | :---:             | :---:     | :---:      | :---: | :---: |
+| **b**   | north       | in front          | advance   |            |       |       |
+| **g**   | south       | behind            | retreat   |            |       |       |
+| **d**   | east        | to the right      |           |            |       |       |
+| **l**   | west        | to the left       |           |            |       |       |
+| **n**   | high        | above             |           |            |       |       |
+| **z**   | low         | below             |           |            |       |       |
+| **a**   |             |                   |           | less       | -     |       |
+| **i**   |             |                   |           | same       | =     | is    |
+| **u**   |             |                   |           | more       | +     |       |
 
 Some numerical associations are:
 
@@ -587,6 +587,6 @@ Or read out simply as digits it is:
 
 ---
 
-`20170103 / 20170506:2016`
+`20170103 / 20170504:1820`
 
 ---
