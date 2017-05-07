@@ -41,6 +41,10 @@ For now, see [Nuda](https://github.com/Auxlanger/Nuda) on GitHub.
 - [**Size of the Language**](#size-of-the-language)
 - [**Foreign Letters**](#foreign-letters)
 - [**Associations**](#associations)
+- [**Grammar**](#grammar)
+    - [**Sentences**](#sentences)
+        - [**Foreign Sentences**](#foreign-sentences)
+        - [**Native Sentences**](#native-sentences)
 - [**Reference**](#reference)
 
 ---
@@ -185,8 +189,12 @@ Some other associations are:
 | **n**   | high        | above             |           |            |       |       |
 | **z**   | low         | below             |           |            |       |       |
 | **a**   |             |                   |           | less       | -     |       |
-| **i**   |             |                   |           | same       | =     | is    |
+| **i**   |             |                   |           | same       | =     | to be, to equal |
 | **u**   |             |                   |           | more       | +     |       |
+
+Some additional associations are:
+
+- **di** = foreign
 
 Some numerical associations are:
 
@@ -214,13 +222,130 @@ Some numerical associations are:
  - 1,000,000,000,000 = (1000^4) = **duzi**
  - 1,000,000,000,000,000 = (1000^5) = **gizi**
 
+Numbers are written as in traditional English, with a comma as a delimiter.
+
 The speed of light in metres per second is:
 
  - 299,792,458 = **bu-nunu-ninu-ni-buzi, li-nunu-ninu-bu-bizi, du-nunu-ginu-lu**
 
 Or read out simply as digits it is:
 
- - 299792458 = **bu-ni-ni-li-ni-bu-du-gi-lu**
+ - 299,792,458 = **bu-ni-ni-li-ni-bu-du-gi-lu**
+
+---
+
+## Grammar
+
+Nuda grammar is small and strict.
+
+### Sentences
+
+There are 2 kinds of grammatical sentences:
+
+1. A ***native sentence*** is one which does not start with **di**; it must use Nuda grammar.
+1. A ***foreign sentence*** is one which starts with **di**; it need not use Nuda grammar.
+
+A sentence is ungrammatical if any of the following applies:
+
+1. When written, it does not end with **.** or **!** or **?**
+1. It is a native sentence but does not use Nuda grammar correctly.
+1. It is a foreign sentence but does not begin with **di**.
+1. Its first letter is capitalized for no other reason than that it begins the sentence.
+
+#### Foreign Sentences
+
+Foreign sentences need not use Nuda grammar. Instead, they may use an *ad hoc* grammar which is easily understood in the context of what is being discussed. For example, a foreign sentence might consist of enunciating a list of numbers or symbols such as in a mathematical formula.
+
+Recall that the foreign Roman letter **C** or **c** is named **ca** and pronounced /tʃa/.
+
+Suppose that we wish to use a foreign sentence to enunciate this symbol:
+
+> C
+
+This would be grammatical:
+
+> **di ca.**
+
+The initial **di** indicates that this is a foreign sentence.
+
+It is more usual, and equally grammatical, to write the symbol itself rather than its name:
+
+> **di C.**
+
+We can summarize this as:
+
+> C  
+> **di C.**  
+> **di ca.**
+
+Similar examples:
+
+> 2  
+> **di 2.**  
+> **di bu.**
+
+> π  
+> **di π.**  
+> **di pa-di.**
+
+> r  
+> **di r.**  
+> **di ra.**
+
+> 2πr  
+> **di 2πr.**  
+> **di bu pa-di ra.**
+
+The colloquial name of the **=** symbol is **i**. Thus:
+
+> =  
+> **di =.**  
+> **di i.**
+
+Therefore we can express the formula for the circumference of a circle as:
+
+> C = 2πr  
+> **di C = 2πr.**  
+> **di ca i bu pa-di ra.**
+
+So a sentence in a document might be written:
+
+> di C = 2πr.
+
+But we would pronounce that sentence as:
+
+> **di ca i bu pa-di ra.**
+
+Foreign sentences are also useful for lists or sequences:
+
+> 1 2 3 4 5  
+> **di 1 2 3 4 5.**  
+> **di bi bu di du gi.**
+
+> 1, 2, 3, 4, 5  
+> **di 1, 2, 3, 4, 5.**  
+> **di bi, bu, di, du, gi.**
+
+Or numbers:
+
+> 12,345  
+> **di 12,345.**  
+> **di nu-bu-bizi, di-nunu-dunu-gi.**  
+> **di bi-bu-di-du-gi.**
+
+Note that **di** also means 3:
+
+> 3  
+> **di 3.**  
+> **di di.**
+
+As we have seen, Nuda contains homophones. For this and other reasons it is strongly recommended that numerals, letters and symbols be written (e.g. **di C = 2πr.**) rather than writing the names of those numerals, letters and symbols (e.g. **di ca i bu pa-di ra.**).
+
+Foreign sentences make Nuda an extensible language. When a sentence begins with **di** it is a foreign sentence and it may use any *ad hoc* syntax suitable for the task at hand. Foreign sentences should only be used where context makes their intended meaning clear.
+
+#### Native Sentences
+
+
 
 ---
 
@@ -234,13 +359,13 @@ Or read out simply as digits it is:
 ## Native Roots
 
 1. **a** :: A 
-1. **i** :: I 
+1. **i** :: I | = | to be | to equal 
 1. **u** :: U 
 1. **ba** :: B 
 1. **bi** :: 1 
 1. **bu** :: 2 
 1. **da** :: D 
-1. **di** :: 3 | **-di** used in the names of many Greek letters
+1. **di** :: 3 | **di** marks the beginning of a foreign sentence | **-di** used in the names of many Greek letters 
 1. **du** :: 4 
 1. **ga** :: G 
 1. **gi** :: 5 
@@ -330,7 +455,7 @@ Or read out simply as digits it is:
 1. **dibi** ::  
 1. **dibu** ::  
 1. **dida** ::  
-1. **didi** :: **-didi** used in the names of some Greek letters 
+1. **didi** :: **-didi** used in the names of a few Greek letters 
 1. **didu** ::  
 1. **diga** ::  
 1. **digi** ::  
@@ -587,6 +712,6 @@ Or read out simply as digits it is:
 
 ---
 
-`20170103 / 20170504:1820`
+`20170103 / 20170507:1345`
 
 ---
